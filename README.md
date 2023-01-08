@@ -1,11 +1,11 @@
 # NotePaper
-#
+### 
 ![](https://raw.githubusercontent.com/TenamSobti/NotePaper/main/notepaper_logo.jpg)
 
 _Notepaper_ is an easy-to-use notepad editor written in Java.
 
 ## Demonstration
-#
+### 
 ![](https://raw.githubusercontent.com/TenamSobti/NotePaper/main/miniproject1.gif)
 
 ## Features
